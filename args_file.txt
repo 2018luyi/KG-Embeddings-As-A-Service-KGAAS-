@@ -1,0 +1,6 @@
+knowledge_graph:RDFGraph.nt
+model:transE
+dimension:50
+optimizer:SGD
+train_time:100
+n_batches:100
