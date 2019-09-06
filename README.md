@@ -1,11 +1,11 @@
 # KG-Embeddings-As-A-Service-KGAAS-
 This project was started at the BioHackthon19. 
-# Aim
+## Aim
 Make knowledge graph widely available as a service
-# Motivation 
+## Motivation 
 KG embeddings methods are available as standalone packages with specific hardware and software requirements
 Tricky hyper-parameters settings for non-expert users
-# Main Tasks (work under progress): 
+## Main Tasks (work under progress): 
 * Create an automated backend pipeline to run the input graph  (in RDF) with the selected KG model. User may input specific entities/link to be predicted
 ## Functionalities:
 * Process the graph in a format that makes easy for the embedding method to use
